@@ -24,7 +24,7 @@ There is a full [tutorial dedicated to signing][signingTutorial].
 
 # 1. Start and enter one of your bitcoin addresses 
 
-![My helpful screenshot](/assets/homePage.svg)
+![Home Page](/assets/homePage.svg)
 *Click 'Create'*
 
 
@@ -33,5 +33,5 @@ There is a full [tutorial dedicated to signing][signingTutorial].
 # 3. Promote your campaign on social media
 
 [SamouraiWallet]: https://samouraiwallet.com
-[signingTutorial]: /signing
+[signingTutorial]: /tutorials/2020/09/04/signing.html
 [BitFundMe]: https://bitfundme.rocks

@@ -1,0 +1,12 @@
+---
+layout: post
+title: Signing
+categories:  tutorials
+---
+# 1. Generate your funding address
+![Generate funding address](/assets/signing1.svg)
+*Click 'Create'*
+# 2. Sign message with your address
+![Sign message](/assets/signing2.svg)
+*Click 'Create'*
+# 3. Paste signed message to authenticate

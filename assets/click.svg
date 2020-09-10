@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0rc1 (e8361d971c, 2020-04-28)"
+   sodipodi:docname="click.svg"
+   viewBox="0 0 102.33711 141.59927"
+   height="141.59927"
+   width="102.33711"
+   id="svg346"
+   version="1.1">
+  <metadata
+     id="metadata352">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs350" />
+  <sodipodi:namedview
+     inkscape:current-layer="g354"
+     inkscape:window-maximized="1"
+     inkscape:window-y="36"
+     inkscape:window-x="0"
+     inkscape:cy="130.60756"
+     inkscape:cx="-92.47004"
+     inkscape:zoom="1.6675"
+     showgrid="false"
+     id="namedview348"
+     inkscape:window-height="836"
+     inkscape:window-width="1600"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <g
+     transform="translate(-50.124413,-28.40204)"
+     id="g354"
+     inkscape:label="Image"
+     inkscape:groupmode="layer">
+    <path
+       sodipodi:nodetypes="cccccccccccccc"
+       id="path358"
+       d="m 85.424567,34.926705 0.86774,74.566185 -18.27147,-21.932218 c -6.49281,-1.0564 -15.29628,-3.28299 -17.3267,1.24007 l 26.04045,38.817558 c 3.6287,18.6758 11.7848,31.20072 23.17312,39.33438 8.018993,2.44648 16.037983,3.11388 24.056973,2.07953 17.46519,-3.9424 16.97443,-11.99969 22.57618,-18.66079 2.89626,-18.31743 3.63893,-34.35354 5.4027,-51.471308 -2.4385,-3.13126 -5.5316,-5.88816 -9.4031,-8.19988 -13.363,-1.7853 -26.726,-3.32418 -40.089,-2.6122 l -1.48928,-56.303558 c -4.891673,-3.553854 -9.783343,-4.165 -14.675013,0.119801 z"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  </g>
+</svg>
