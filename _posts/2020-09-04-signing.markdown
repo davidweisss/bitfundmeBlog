@@ -3,10 +3,27 @@ layout: post
 title: Signing
 categories:  tutorials
 ---
-Please check the tutorial [Generate your funding address][Generate]
+After [creating your campaign][Create], updates will require proving you are the owner. The app will challenge you to sign a message.
+
+<div style="text-align: center">
+   <img alt="Sign update" src="/assets/signUpdateChallenge.png" />
+</div> 
+<p align='center'> <i>Request to sign a message, ie the word 'challenge', to post a campaign update.</i></p>
+
 
 # 1. Sign message with your address
+
+On Samourai Wallet, signing messages is available from the Address Calculator. This is the same menu from which addresses can be obtained (please check the tutorial [Generate your funding address][Generate])
+
 ![Sign message](/assets/signing2.svg)
-*Click 'Create'*
+*use the Samourai Wallet address calculator to create the signature, then copy the result into clipboard*
 # 2. Paste signed message to authenticate
+<div style="text-align: center">
+   <img alt="Sign update" src="/assets/signUpdate.png" />
+</div> 
+<p align='center'> <i>Add details, then click 'Save'</i></p>
+
+That's it. BitFundMe can verify that you are in control of the campaign funds. Note that this is done without revealing your identity or any other personal information. Furthermore, this signature does not give BitFundMe access to your funds.
+
 [Generate]: /tutorials/2020/09/05/generate-address.html
+[Create]: /tutorials/2020/09/03/Getting-started.html

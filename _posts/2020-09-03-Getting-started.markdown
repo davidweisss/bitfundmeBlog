@@ -5,29 +5,65 @@ date:   2020-09-03
 categories:  tutorials
 ---
 
-[BitFundMe][BitFundMe] is an entirely new type of app where you can remain anonymous while remaining in control of your information and also manage funds in Bitcoin.
+[BitFundMe][BitFundMe] is an entirely new type of app where you can remain anonymous while remaining in control of your information, and also manage funds in Bitcoin.
 
 Therefore, you will need a bitcoin wallet instead of a username and password to manage your stuff.
 
-Think of the bitcoin wallet as using a bank fob you would use to sign your bank stuff, but without intrusion or friction.
+Think of the bitcoin wallet as a bank fob you would use to sign your bank stuff, but without intrusion or friction.
 
-BitFundMe uses a novel authentication method that uses digital signatures. To use this you will need a bitcoin wallet that can sign messages. If
+BitFundMe uses a novel authentication method based on digitally-signed messages. To use it you will need a bitcoin wallet that can sign messages. If
 you don't have one, check out the [Samourai Wallet][SamouraiWallet].
 
 You don't need to know the details to get started, but if you're curious, there is a [tutorial dedicated to signing][signingTutorial].
 
-# 1. Start and enter one of your bitcoin addresses 
-
+Let's get started! Navigate to [https://BitFundMe.rocks][BitFundMeURL] and click 'Create'
 ![Home Page](/assets/homePage.svg)
-*Navigate to [https://BitFundMe.rocks][BitFundMeURL] and click 'Create'*
+
+<br/>
+
+## 1. Enter the bitcoin address where you wish to receive campaign funding
 
 You will need a valid Bitcoin address. Check [this tutorial][Generate] about how to generate one.
 
 ![Enter Funding Address](/assets/newAddress.svg)
 *Enter a valid Bitcoin address where you wish to receive funding for your campaign and click 'Submit'*
 
-# 2. Enter campaign details
-# 3. Promote your campaign on social media
+## 2. Enter campaign information
+### Add an image
+<div style="text-align: center">
+   <img alt="Add picture" src="/assets/pictureAdd.svg" />
+</div> 
+<p align='center'> <i>Choose image, upload, then click 'Save'</i></p>
+
+### Add campaign details
+<div style="text-align: center">
+   <img alt="Add details" src="/assets/detailsAdd.png" />
+</div> 
+<p align='center'> <i>Add details, then click 'Save'</i></p>
+
+
+### Your crowdfunding campaign is up and running!
+<div style="text-align: center">
+   <img alt="Campaign" src="/assets/campaign.svg" />
+</div> 
+
+<br/>
+
+## 3. Receive donations and promote your campaign on social media
+### Receive donations
+<div style="text-align: center">
+   <img alt="qr code" src="/assets/qr.svg" />
+</div> 
+<p align='center'> <i>Funds can be sent to your campaign simply by scanning the QR code displayed.</i></p>
+### Share campaign
+<div style="text-align: center">
+   <img alt="Share" src="/assets/share.svg" />
+</div> 
+<p align='center'> <i>Choose the social network to share your campaign.</i></p>
+<br/>
+
+## 4. Post campaign updates 
+Posting campaign updates, like any modification after campaign creation, requires a digital signature proving that you own the campaign. Please see [this tutorial][signingTutorial] to complete this step.
 
 [SamouraiWallet]: https://samouraiwallet.com
 [signingTutorial]: /tutorials/2020/09/04/signing.html
