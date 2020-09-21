@@ -3,12 +3,12 @@ layout: post
 title: Signing
 categories:  tutorials
 ---
-After [creating your campaign][Create], updates will require proving you are the owner. The app will challenge you to sign a message.
+After [creating your campaign][Create], edits and updates will require proving you are the owner. The app will challenge you to sign a message.
 
 <div style="text-align: center">
    <img alt="Sign update" src="/assets/signUpdateChallenge.png" />
 </div> 
-<p align='center'> <i>Request to sign a message, ie the word 'challenge', to post a campaign update.</i></p>
+<p align='center'> <i>App requests signing a message -- the word 'challenge' --  to allow posting a campaign update.</i></p>
 
 
 # 1. Sign message with your address
@@ -16,14 +16,14 @@ After [creating your campaign][Create], updates will require proving you are the
 On Samourai Wallet, signing messages is available from the Address Calculator. This is the same menu from which addresses can be obtained (please check the tutorial [Generate your funding address][Generate])
 
 ![Sign message](/assets/signing2.svg)
-*use the Samourai Wallet address calculator to create the signature, then copy the result into clipboard*
+*Use the Samourai Wallet address calculator to create the signed message (Signature), select it, then copy the result into the clipboard*
 # 2. Paste signed message to authenticate
 <div style="text-align: center">
    <img alt="Sign update" src="/assets/signUpdate.png" />
 </div> 
-<p align='center'> <i>Add details, then click 'Save'</i></p>
+<p align='center'> <i>Paste the signed message (Signature), then click 'Post'</i></p>
 
-That's it. BitFundMe can verify that you are in control of the campaign funds. Note that this is done without revealing your identity or any other personal information. Furthermore, this signature does not give BitFundMe access to your funds.
+That's it! BitFundMe can verify that you are in control of the campaign funds. Note that neither your identity, nor any other personal information is revealed. In particular, this signature does not give BitFundMe access to your funds.
 
 [Generate]: /tutorials/2020/09/05/generate-address.html
 [Create]: /tutorials/2020/09/03/Getting-started.html

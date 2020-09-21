@@ -5,18 +5,17 @@ date:   2020-09-03
 categories:  tutorials
 ---
 
-[BitFundMe][BitFundMe] is an entirely new type of app where you can remain anonymous while remaining in control of your information, and also manage funds in Bitcoin.
+[BitFundMe][BitFundMe] lets you create Bitcoin crowdfunding campaigns. It's an entirely new type of app where you can remain anonymous AND in control of your information and funds.
 
-Therefore, you will need a bitcoin wallet instead of a username and password to manage your stuff.
+It works by using a bitcoin wallet instead of a username and password to manage your stuff. BitFundMe uses a novel authentication method based on digitally-signed messages. To use it you will need a bitcoin wallet that can sign messages. If you don't have one, check out the [Samourai Wallet][SamouraiWallet].
 
-Think of the bitcoin wallet as a bank fob you would use to sign your bank stuff, but without intrusion or friction.
-
-BitFundMe uses a novel authentication method based on digitally-signed messages. To use it you will need a bitcoin wallet that can sign messages. If
-you don't have one, check out the [Samourai Wallet][SamouraiWallet].
+Think of the bitcoin wallet as a bank fob you would use to sign in your bank app -- but without intrusion and with less friction.
 
 You don't need to know the details to get started, but if you're curious, there is a [tutorial dedicated to signing][signingTutorial].
 
-Let's get started! Navigate to [https://BitFundMe.rocks][BitFundMeURL] and click 'Create'
+Let's get started! 
+
+Navigate to [https://BitFundMe.rocks][BitFundMeURL] and click 'Create'
 ![Home Page](/assets/homePage.svg)
 
 <br/>
@@ -50,16 +49,17 @@ You will need a valid Bitcoin address. Check [this tutorial][Generate] about how
 <br/>
 
 ## 3. Receive donations and promote your campaign on social media
+There are two main actions on the campaign page: "Donate" to receive donations from Bitcoin wallets, and "Share", to spread the word on social media.
 ### Receive donations
 <div style="text-align: center">
    <img alt="qr code" src="/assets/qr.svg" />
 </div> 
-<p align='center'> <i>Funds can be sent to your campaign simply by scanning the QR code displayed.</i></p>
+<p align='center'> <i>Funds can be sent to your campaign simply by scanning the QR code displayed after clicking "Donate" on the campaign page.</i></p>
 ### Share campaign
 <div style="text-align: center">
    <img alt="Share" src="/assets/share.svg" />
 </div> 
-<p align='center'> <i>Choose the social network to share your campaign.</i></p>
+<p align='center'> <i>Afer clicking the "Share" button on the campaign page, you can choose the social network where you wish to share your campaign.</i></p>
 <br/>
 
 ## 4. Post campaign updates 
